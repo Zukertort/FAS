@@ -1,0 +1,11 @@
+# Specifies files for Git to ignore
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
