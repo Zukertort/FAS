@@ -1,3 +1,11 @@
 # Lists the Python project dependencies
-# Copy and paste in your terminal
-pip install flask pandas numpy scikit-learn nltk tensorflow vaderSentiment
+flask 
+pandas 
+numpy 
+scikit-learn 
+nltk 
+tensorflow 
+seaborn 
+fastapi[standard]
+uvicorn[standard]
+joblib
